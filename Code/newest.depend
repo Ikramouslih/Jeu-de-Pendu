@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1592694762 source:c:\users\ikram\desktop\newest\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1592688958 source:c:\users\ikram\desktop\newest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"prototype.h"
+
+1591999120 c:\users\ikram\desktop\newest\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1592349200 c:\users\ikram\desktop\newest\prototype.h
+
+1592612125 source:c:\users\ikram\desktop\newest\graphics.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1592694759 source:c:\users\ikram\desktop\newest\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1592694762 source:c:\users\ikram\desktop\jeu de pendu\newest\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1592612125 source:c:\users\ikram\desktop\jeu de pendu\newest\graphics.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1592688958 source:c:\users\ikram\desktop\jeu de pendu\newest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"prototype.h"
+
+1592349200 c:\users\ikram\desktop\jeu de pendu\newest\prototype.h
+
+1593292360 source:c:\users\ikram\desktop\jeu de pendu\newest\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1592694762 source:c:\users\ikram\desktop\projects\jeu de pendu\newest\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1592612125 source:c:\users\ikram\desktop\projects\jeu de pendu\newest\graphics.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1592688958 source:c:\users\ikram\desktop\projects\jeu de pendu\newest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"prototype.h"
+
+1594731268 c:\users\ikram\desktop\projects\jeu de pendu\newest\prototype.h
+
